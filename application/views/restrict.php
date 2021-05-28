@@ -19,8 +19,9 @@
     </div>
     <div class="container">
         <ul class="nav nav-tabs">
-            <li></li>
+        <li class="active"><a href="#tab_courses" role="tab" data-toggle="tab">Conteúdo Cursos</a></li>
+        <li><a href="#tab_team" role="tab" data-toggle="tab">Conteúdo Equipe</a></li>
+        <li><a href="#tab_user" role="tab" data-toggle="tab">Conteúdo Usuarios</a></li>
         </ul>
-        
     </div>
 </section>
